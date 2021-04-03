@@ -1,0 +1,46 @@
+h1 {
+    font-size: 50px;
+    color: lime;
+    text-align: center;
+}
+h2 {
+    font-size: 15px;
+    color: hotpink;
+    text-align: right;
+}
+h3 {
+    font-size: 15px;
+    color: blue;
+    text-align: right;
+}
+i {
+    font-size: 25px;
+    color : green
+}
+p { 
+    font-size: 10px;
+}
+
+.blue-font { 
+    font-size: 40px;
+    color: blue;
+}
+#third-prag{
+
+    font-size: 40px;
+    color: blueviolet;
+
+}
+.pic{
+
+    background-color: #eee;
+    border-radius: 20px;
+    margin-bottom: 50px;
+    padding: 50px;
+    width: 320px;
+    margin-left: auto; 
+    margin-right: auto;
+
+
+
+}
